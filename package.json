@@ -1,6 +1,7 @@
 {
-  "name": "kolserdav/timer",
+  "name": "russian_timer",
   "description": "Simple timer russian month",
+  "version": "0.0.7",
   "main": "index.js",
   "scripts": {
     "test": " echo \"Test complete\""

@@ -1,7 +1,7 @@
 
-export default function time(){
+export default function time(field_id){
     window.onload = setInterval(function(){
-        let i = document.getElementById("time");
+        let i = document.getElementById(field_id);
         let d = new Date();
         let y = d.getFullYear();
         let m = d.getMonth();
