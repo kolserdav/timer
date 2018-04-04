@@ -1,14 +1,9 @@
 {
   "name": "kolserdav/timer",
-  "version": "0.0.1",
   "description": "Simple timer russian month",
   "main": "index.js",
   "scripts": {
     "test": " echo \"Test complete\""
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kolserdav/timer.git"
   },
   "keywords": [
     "js",
