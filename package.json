@@ -1,7 +1,7 @@
 {
   "name": "russian_timer",
   "description": "Simple timer russian month",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "index.js",
   "scripts": {
     "test": " echo \"Test complete\""
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/kolserdav/timer/issues"
   },
-  "homepage": "https://github.com/kolserdav/timer#readme"
+  "homepage": "https://github.com/kolserdav/timer#readme",
+  "dependencies": {}
 }

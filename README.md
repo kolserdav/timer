@@ -2,10 +2,14 @@
 
 _Installation_  
 
-~$` npm i russian_timer`  
+~$` npm i russian_timer`    
+or  
+~$ `npm i https://github.com/kolserdav/timer.git`  
 
-Using  
+
+_Using_  
+
 ```javascript
 import time from "russian_timer" 
 time(field_id);
-```
+```  
